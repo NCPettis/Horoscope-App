@@ -24,7 +24,7 @@ A horoscope app that gives you a fitting Maya Angelou quote based on your birthd
 
 ### Application Interface
 
-![Slot Machine application interface](img/horoscope-screenshot.png.png)
-![Slot Machine application interface](img/horoscope-screenshot(2).png.png)
+![Slot Machine application interface](img/horoscope-screenshot.png)
+![Slot Machine application interface](img/horoscope-screenshot(2).png)
 
 The interface displays a calander input for date of birth, a button to retrieve horoscope, and finally displays the Maya Angelou quote for you.
